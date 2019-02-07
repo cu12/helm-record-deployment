@@ -6,9 +6,9 @@ Goal of the following chart is to record deployments in various services to trac
 
 record-deployment - as of now - supports the following services
 
-- NewRelic ![NewRelic](../assets/newrelic.png)
-- Rollbar ![Rollbar](../assets/rollbar.png)
-- Slack ![Slack](../assets/slack.png)
+- NewRelic [How does it look like?](../assets/newrelic.png)
+- Rollbar [How does it look like?](../assets/rollbar.png)
+- Slack [How does it look like?](../assets/slack.png)
 
 ## Configuration
 
