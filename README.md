@@ -6,9 +6,9 @@ Goal of the following chart is to record deployments in various services to trac
 
 record-deployment - as of now - supports the following services
 
-- NewRelic
-- RollBar
-- Slack
+- NewRelic ![NewRelic](../assets/newrelic.png)
+- Rollbar ![Rollbar](../assets/rollbar.png)
+- Slack ![Slack](../assets/slack.png)
 
 ## Configuration
 
@@ -77,7 +77,7 @@ Example values file as a subchart:
 
 ```
 record-deployment:
-  application: "dashboard"
+  application: "Super Dashboard"
   environment: "testing"
   revision: "1.0"
 
