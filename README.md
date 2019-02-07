@@ -28,7 +28,7 @@ Below you will find the necessary information about what you'll need from specif
 To configure integration with NewRelic deployments you will need the `appID` and the `apiKey`
 
 1) Get the `appID` by opening the app in NewRelic and from the address bar copy the relevant part, for eg `https://rpm.newrelic.com/accounts/<account>/applications/*<appID>*`
-2) Get the `apiKey` by going to `Account settings` and look for `License key`
+2) Get the `apiKey` by going to `Account settings` and look for `API keys`
 
 It is recommended to inject `apiKey` during the install in a secure way and not save it anywhere in the chart repository.
 
